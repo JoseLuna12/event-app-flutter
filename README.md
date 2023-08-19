@@ -1,16 +1,5 @@
-# eventsappflutter
+# Event App design built with flutter
 
-A new Flutter project.
+👉 [More info here](https://devlog-jose.vercel.app/dev/en/event-app-flutter)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://firebasestorage.googleapis.com/v0/b/dashboard-blogs-app.appspot.com/o/images%2FThzROsREBLP9kFuUvCnohZ2IABw2%2Fthumbnail_half_event-app-homeScreen.png?alt=media&token=24ae9ded-f6c5-47c2-92e9-f2f2a3ba2ccc)
